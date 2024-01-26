@@ -1,0 +1,7 @@
+D:\ОАиП\Date&Time\bin\Debug\Date&Time.exe.config
+D:\ОАиП\Date&Time\bin\Debug\Date&Time.exe
+D:\ОАиП\Date&Time\bin\Debug\Date&Time.pdb
+D:\ОАиП\Date&Time\obj\Debug\Date&Time.csproj.AssemblyReference.cache
+D:\ОАиП\Date&Time\obj\Debug\Date&Time.csproj.CoreCompileInputs.cache
+D:\ОАиП\Date&Time\obj\Debug\Date&Time.exe
+D:\ОАиП\Date&Time\obj\Debug\Date&Time.pdb
